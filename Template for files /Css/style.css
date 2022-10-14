@@ -1,0 +1,11 @@
+.hovermenuitem:hover{
+    border: #009ad8 ;
+    border-style: solid;
+    border-color: #009ad8;
+    color: #009ad8;
+    border-radius: 50%;
+}
+
+.bgimage{
+    background-image: url(../Images/);
+}
